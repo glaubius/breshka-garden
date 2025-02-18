@@ -1,12 +1,12 @@
 ---
-title: @snyder2017
+title: snyder2017
 draft: false
 tags:
   - "#litnote"
 citekey: {"{ citekey }":null}
 ---
 
-## @snyder2017
+## snyder2017
 
 Year: 2017
 Authors: Timothy Snyder
