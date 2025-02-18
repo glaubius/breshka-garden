@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Breshka Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Just getting started planting this [[Digital Garden]], so there is a lot left to do.
+
+If you'd like to see what I've been reading, check out my [[Reading Log]].
