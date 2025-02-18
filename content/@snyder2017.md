@@ -1,5 +1,5 @@
 ---
-title: '<% tp.file.title %>'
+title: @snyder2017
 draft: false
 tags:
   - "#litnote"
