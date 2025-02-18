@@ -7,7 +7,7 @@ citekey: {"{ citekey }":null}
 ---
 
 ## snyder2017
-
+Title: On Tyranny
 Year: 2017
 Authors: Timothy Snyder
 
@@ -20,7 +20,7 @@ Authors: Timothy Snyder
     
     - Hard disagree that it was globalization, but rather capitalism. And in many cases, the democracies were helpless to confront because they were created and based on capitalism and thus couldn’t fight it.
         
-- Snyder gives brief critiques of fascism and communism, but instead of communism, he’s talking about Soviet authoritarianism. In the case of both fascism and vanguard socialism, I think we must beware of any one person or small group that has the “one true vision” of must be done because they may have good intentions (or not), but true democracy requires Solidarity (see book by Hunt-Hendrix and Taylor 2024), which involves conflicting views. p. 12-13
+- Snyder gives brief critiques of fascism and communism, but instead of communism, he’s talking about Soviet authoritarianism. In the case of both fascism and vanguard socialism, I think we must beware of any one person or small group that has the “one true vision” of must be done because they may have good intentions (or not), but true democracy requires [[hunt-hendrix.taylor2024 | Solidarity (see book by Hunt-Hendrix and Taylor 2024)]], which involves conflicting views. p. 12-13
     
 
 1. Don't obey in advance - it shows officials how far they can go  
@@ -35,7 +35,7 @@ Authors: Timothy Snyder
 10. Believe in truth  
 11. Investigate - learn more  
 12. Make eye contact and small talk - stay in touch with surroundings. "A smile, a handshake, or a word of greeting - banal gestures in a normal situation - took on great significance. When friends, colleagues, and acquaintances looked away or crossed the street to avoid contact, fear grew." 82  
-13. Practice corporeal politics - make new friends and resist together; but unlike Snyder, I don't think it has to be protest, especially not now ( see Bevins "If We Burn" esp. last chapter on problems of protest first attitude). Start with Mutual Aid, because as Snyder describes in Poland, need Solidarity first!!  
+13. Practice corporeal politics - make new friends and resist together; but unlike Snyder, I don't think it has to be protest, especially not now ( see [[bevins2023 | Bevins "If We Burn"]] esp. last chapter on problems of protest first attitude). Start with Mutual Aid, because as Snyder describes in Poland, need Solidarity first!!  
 14. Establish a private life - digital security  
 15. Contribute to good causes - political or not  
 16. Learn from peers in other countries - keep up with friends abroad  

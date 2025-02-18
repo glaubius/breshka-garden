@@ -1,13 +1,12 @@
 ---
-title: '<% tp.file.title %>'
+title: 
 draft: false
 tags:
   - "#litnote"
-citekey: {"{ citekey }":null}
 ---
 
 ## @{{citekey}}
-
+Title: {{title}}
 Year: {{date | format ("YYYY")}}
 Authors: {{authors}}
 
