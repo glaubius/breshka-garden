@@ -5,6 +5,7 @@ tags:
   - "#seed"
 ---
  - @kaba2021: Kaba, Mariame. _We Do This ’til We Free Us: Abolitionist Organizing and Transforming Justice_. Edited by Tamara K. Nopper. Abolitionist Papers Series. Chicago, Illinois: Haymarket Books, 2021.
+ - @[[rosenthal.vilchis2024]]: Rosenthal, Tracy, and Leonardo Vilchis. _Abolish Rent How Tenants Can End the Housing Crisis_. Chicago: Haymarket Books, 2024. 
  - @[[snyder2017]]: Snyder, Timothy. _On Tyranny_. Crown/Archetype, 2017. 
  - @[[hunt-hendrix.taylor2024]]: Hunt-Hendrix, Leah, and Astra Taylor. _Solidarity: The Past, Present, and Future of a World-Changing Idea_. New York: Pantheon Books, 2024.
  - @[[bevins2023]]: Bevins, Vincent. _If We Burn: The Mass Protest Decade and the Missing Revolution_. First edition. New York, NY: PublicAffairs, Hachette Book Group, 2023.

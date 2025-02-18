@@ -19,7 +19,7 @@ Leroux saw solidarity and dependency as key with individualism as obstacle. Cf A
   
 Creation of working class in 1800s not as automatic process, but built by formerly individual guild members coming to collective idea that they were workers in opposition to aristocracy and owners. 9  
   
-Durkheim: pre-modern societies had solidarity based on sameness (I think in opposition to other, which forms ethnicity), but modern societies form solidarity on difference because we need various skills to survive, since hardly anyone is self-sufficient. Cf perils of horizontality in protest era in Bevins If We Burn 11-12  
+Durkheim: pre-modern societies had solidarity based on sameness (I think in opposition to other, which forms ethnicity), but modern societies form solidarity on difference because we need various skills to survive, since hardly anyone is self-sufficient. Cf perils of horizontality in protest era in [[bevins2023 |  Bevins If We Burn]] 11-12  
   
 Comparison of Marx and Durkheim on solidarity 13-14  
   
@@ -35,13 +35,13 @@ Táíwò on reparations in the U.S. should be for structural inequalities and no
 
 Transformative solidarity requires effort and needs recognizable identity, envisioned changes, and strategy to make those changes. 64  
   
-Conclusions of Bevins "If We Burn" summed up in a paragraph here: masses of people don't make changes for the better, but need organization, strategy, and vision. 69  
+Conclusions of [[bevins2023 | Bevins "If We Burn"]] summed up in a paragraph here: masses of people don't make changes for the better, but need organization, strategy, and vision. 69  
   
 4 categories of techniques used to hamper solidarity: 1) Separation and Supremacy, 2) Competition and Consumerism, 3) Regulation and Criminalization, and 4) Alienation and Loneliness. 96  
   
 Robert G. Ingersoll "If the rich meet to reduce wages, that's a conference; if the poor resist the reduction, that's a conspiracy" 115  
   
-Chapter 5 the problem with charity, suspect similar to arguments in Spade"Mutual Aid", but went into philanthropy, capture of NAACP, problems with Gates Foundation, and appeals for unity and bipartisanship 133-178  
+Chapter 5 the problem with charity, suspect similar to arguments in [[spade2020 | Spade"Mutual Aid"]], but went into philanthropy, capture of NAACP, problems with Gates Foundation, and appeals for unity and bipartisanship 133-178  
   
 Thought experiment of chapter 6 "A Solidarity State", what if the government cultivated unity instead of using divide and conquer tactics and procedures that emphasize shame 184  
   
