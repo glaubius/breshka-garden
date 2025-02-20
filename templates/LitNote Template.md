@@ -1,5 +1,5 @@
 ---
-title: 
+title: {{citekey}}
 draft: false
 tags:
   - "#litnote"
